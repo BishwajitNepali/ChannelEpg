@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Channel Epg</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--  -->
+    <string name="btn_dismiss">DISMISS</string>
+    <string name="txt_empty"></string>
+    <string name="txt_loading">Loading</string>
+    <string name="err_json_exception">Could not Fetch the required Datas! pleaase Try again later</string>
+    
+    <string name="err_unexpected">Unexpected Error Occurred</string>
+
+</resources>
